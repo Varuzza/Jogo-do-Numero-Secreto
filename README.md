@@ -13,3 +13,4 @@
 # Time
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/256933680?v=4" width=95><br><sub>Leonardo Varuzza</sub>](https://github.com/Varuzza)
+| --- |
